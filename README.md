@@ -1,3 +1,4 @@
 # MGS-COHORT-II
 BETABUILDAS
-Builders writing from the source of creativity
+Builders building from the source of creativity
+TO build creatively 
